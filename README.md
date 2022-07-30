@@ -1,8 +1,14 @@
+# <b>Hello there, I'm Luis Guillen 👋</b>
+
+
+
+
+
 - 👋 Hi, I’m @louisalbeert
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a developer growing from Barranquilla - Colombia, focusing in learning Frontend Web Development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, Python and more...
+- 💞️ I love video games 
+- 📫 Learning English
 
 <!---
 louisalbeert/louisalbeert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
